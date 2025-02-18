@@ -1,0 +1,4 @@
+"AadClientId": "cb620808-3396-44ed-8c16-9242744353b9",
+"AadSecret": "w_58Q~gAL49NZP34PUgRm8UPpx_1JlcGECiibc7q",
+"AadTenantDomain": "cdslabs.in",
+"AadTenantId": "f7aa4f42-2232-4d27-af8e-ac56318f28e1",
